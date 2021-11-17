@@ -7,7 +7,7 @@ You can choose your own final project. It should be a computer science project t
 You could:
 * Create your own game, animation or simulation
 * Create a website portfolio of your work
-* Continue your coding practice on [CodingJS](https://the-winter.github.io/codingjs/)
+* Continue practicing your coding on [CodingJS](https://the-winter.github.io/codingjs/)
 * Write programs to solve math problems at [Project Euler](https://projecteuler.net/)
 * Take a free online course on [html](https://www.codecademy.com/courses/learn-html) and/or [css](https://www.codecademy.com/learn/learn-css) at Codecademy
 * Work through the [TinkerCad tutorials to learn how to make 3d objects](https://www.tinkercad.com/learn/designs/learning)
