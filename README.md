@@ -10,7 +10,7 @@ You could:
 * Continue practicing your coding on [CodingJS](https://the-winter.github.io/codingjs/) or other coding practice website
 * Write programs to solve math problems at [Project Euler](https://projecteuler.net/)
 * Take a free online course on [html](https://www.codecademy.com/courses/learn-html) and/or [css](https://www.codecademy.com/learn/learn-css) at Codecademy
-* Work through the [TinkerCad tutorials to learn how to make 3d objects](https://www.tinkercad.com/learn/designs/learning)
+* Work through the [TinkerCad lessons to learn how to make 3d objects](https://www.tinkercad.com/learn/designs/lessons)
 * Learn more p5 by working through the series of [CodingTrain videos](https://thecodingtrain.com/beginners/p5js/)
 * Learn the UNIX command line by playing in the [mysterious land of Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) (Look at slide 530 for a list of helpful UNIX commands)
 * Thinking of taking AP Java next year? Get a head start with the [free online CSAwesome AP CS A Java course](https://csawesome.runestone.academy/runestone/books/published/csawesome/index.html)
