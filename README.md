@@ -12,7 +12,7 @@ You could:
 * Take a free online course on [html](https://www.codecademy.com/courses/learn-html) and/or [css](https://www.codecademy.com/learn/learn-css) at Codecademy
 * Work through the [TinkerCad tutorials to learn how to make 3d objects](https://www.tinkercad.com/learn/designs/learning)
 * Learn more p5 by working through the series of [CodingTrain videos](https://thecodingtrain.com/beginners/p5js/)
-* Learn the UNIX command line by playing in the [mysterious land of Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+* Learn the UNIX command line by playing in the [mysterious land of Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) (Look at slide 530 for a list of helpful UNIX commands)
 * Thinking of taking AP Java next year? Get a head start with the [free online CSAwesome AP CS A Java course](https://csawesome.runestone.academy/runestone/books/published/csawesome/index.html)
 
 You are not limited to these suggestions. You will have time to explore the options before you make your choice. Be sure to think about how you will present your progress (e.g. will you submit computer code or submit evidence of your progress through a course). Choose a project that will engage you, have fun and be creative!
