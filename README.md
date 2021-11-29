@@ -1,7 +1,7 @@
 Final Project
 ===============
 
-You can choose your own final project. It should be a computer science project that you will find engaging for the remainder of the semester. You may find slides 521 to 548 of the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) helpful in choosing your project.
+You can choose your own final project. It should be a computer science project that you will find engaging for the remainder of the semester. You may find slides 521 to 543 of the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) helpful in choosing your project.
 
 
 You could:
