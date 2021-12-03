@@ -6,7 +6,7 @@ You can choose your own final project. It should be a computer science project t
 
 You could:
 * Create your own game, animation, simulation or other program
-* Create a website portfolio of your work using p5, Google Sites, Weebly or other free web hosting service
+* Create a website portfolio of your work using p5, [Google Sites](https://sites.google.com/new), [Weebly](https://www.weebly.com/) or other free web hosting service
 * Continue practicing your coding on [CodingJS](https://the-winter.github.io/codingjs/) or other coding practice website
 * Write programs to solve math problems at [Project Euler](https://projecteuler.net/)
 * Take a free online course on [html](https://www.codecademy.com/courses/learn-html) and/or [css](https://www.codecademy.com/learn/learn-css) at Codecademy
