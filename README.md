@@ -16,3 +16,7 @@ You could:
 * Thinking of taking AP Java next year? Get a head start by registering as an independent learner at [Runestone Ineteractive](https://runestone.academy/runestone/default/user/register) for the [free online CSAwesome AP CS A Java course](https://csawesome.runestone.academy/runestone/books/published/csawesome/index.html)
 
 You are not limited to these suggestions. You will have time to explore the options before you make your choice. Be sure to think about how you will present your progress (e.g. will you submit computer code or submit evidence of your progress through a course?). Choose a project that will engage you, have fun and be creative!
+
+Samples of Student work
+-----------------------
+[Linen](https://computer-programming-a.weebly.com/)   
